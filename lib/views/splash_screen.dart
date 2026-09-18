@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 
 class SplashScreenDay15 extends StatefulWidget {
   const new({super.key});
